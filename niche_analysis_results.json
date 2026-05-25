@@ -1,0 +1,308 @@
+{
+  "generated": "2026-05-25",
+  "store": "ITUNES",
+  "country": "US",
+  "lang": "en-US",
+  "niches": [
+    {
+      "rank": 1,
+      "topic": "menopause symptom tracker",
+      "best_cluster": "Hot Flash & Mood Log",
+      "opportunity_score": 68,
+      "avg_competitor_rating": 3.9,
+      "competitor_count": 85,
+      "competitors_4_5_plus_1000_reviews": 3,
+      "top_keywords": [
+        {
+          "keyword": "hot flash tracker",
+          "traffic": 58,
+          "difficulty": 28,
+          "ratio": 2.07,
+          "kei": { "score": 2.1, "level": "excellent" }
+        },
+        {
+          "keyword": "hot flash log",
+          "traffic": 49,
+          "difficulty": 28,
+          "ratio": 1.75,
+          "kei": { "score": 1.74, "level": "excellent" }
+        },
+        {
+          "keyword": "mood tracker",
+          "traffic": 79,
+          "difficulty": 55,
+          "ratio": 1.44,
+          "kei": { "score": 1.44, "level": "good" }
+        }
+      ],
+      "keyword_inspection_highlights": {
+        "hot_flash_tracker": {
+          "rank_1_app": "Hot Flash Insight (rating 2.0)",
+          "rank_1_beatable": true,
+          "relevant_apps_in_top10": 6,
+          "irrelevant_apps_in_top10": 4,
+          "notes": "Rank 1 has terrible 2.0 rating. Multiple generic trackers pollute results. Clear opportunity."
+        },
+        "hot_flash_log": {
+          "rank_1_app": "setlog - friends camera (rating 4.2, irrelevant)",
+          "rank_1_beatable": true,
+          "relevant_apps_in_top10": 2,
+          "irrelevant_apps_in_top10": 8,
+          "notes": "Top results mostly irrelevant (camera apps, log viewers). Only 2 menopause apps in top 10."
+        },
+        "mood_tracker": {
+          "rank_1_app": "Daylio Journal (rating 4.8)",
+          "rank_1_beatable": false,
+          "relevant_apps_in_top10": 10,
+          "irrelevant_apps_in_top10": 0,
+          "notes": "Extremely competitive. Daylio, How We Feel, Finch all entrenched. Use as secondary keyword only."
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "topic": "eye strain screen break",
+      "best_cluster": "20-20-20 Rule Assistant",
+      "opportunity_score": 68,
+      "avg_competitor_rating": 3.1,
+      "competitor_count": 92,
+      "competitors_4_5_plus_1000_reviews": 1,
+      "top_keywords": [
+        {
+          "keyword": "20s vision break",
+          "traffic": 56,
+          "difficulty": 29,
+          "ratio": 1.93,
+          "kei": { "score": 1.96, "level": "excellent" }
+        },
+        {
+          "keyword": "eye care 20 20 20",
+          "traffic": 47,
+          "difficulty": 30,
+          "ratio": 1.57,
+          "kei": { "score": 1.57, "level": "excellent" }
+        },
+        {
+          "keyword": "vision break timer",
+          "traffic": 33,
+          "difficulty": 30,
+          "ratio": 1.10,
+          "kei": { "score": 1.11, "level": "good" }
+        }
+      ],
+      "keyword_inspection_highlights": {
+        "20s_vision_break": {
+          "rank_1_app": "20s Vision Break (rating 0 — no ratings)",
+          "rank_1_beatable": true,
+          "relevant_apps_in_top10": 5,
+          "irrelevant_apps_in_top10": 5,
+          "notes": "Rank 1 has ZERO ratings. Half top 10 are irrelevant (bubble shooter, VSP insurance). Wide open."
+        },
+        "eye_care_20_20_20": {
+          "rank_1_app": "Eye Care 20 20 20 (rating 4.3)",
+          "rank_1_beatable": true,
+          "relevant_apps_in_top10": 7,
+          "irrelevant_apps_in_top10": 3,
+          "notes": "More relevant results but quality still low. Many have 0 ratings or sub-4 stars."
+        },
+        "vision_break_timer": {
+          "rank_1_app": "Stand Up! The Work Break Timer (rating 4.7)",
+          "rank_1_beatable": false,
+          "relevant_apps_in_top10": 4,
+          "irrelevant_apps_in_top10": 6,
+          "notes": "Generic break/pomodoro timers dominate. Only 4 eye-specific apps in top 10. Niche keyword but low traffic."
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "topic": "pelvic floor trainer",
+      "best_cluster": "Hardware-Integrated Trainers",
+      "opportunity_score": 63,
+      "avg_competitor_rating": 4.4,
+      "competitor_count": 100,
+      "competitors_4_5_plus_1000_reviews": 8,
+      "top_keywords": [
+        { "keyword": "kegel exercises", "traffic": 72, "difficulty": 48, "ratio": 1.50 },
+        { "keyword": "pelvic floor exercises", "traffic": 65, "difficulty": 45, "ratio": 1.44 },
+        { "keyword": "kegel trainer", "traffic": 61, "difficulty": 42, "ratio": 1.45 }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "TMJ jaw pain",
+      "best_cluster": "Orthodontic Progress Tracker",
+      "opportunity_score": 63,
+      "avg_competitor_rating": 3.8,
+      "competitor_count": 100,
+      "competitors_4_5_plus_1000_reviews": 4,
+      "top_keywords": [
+        { "keyword": "tmj exercises", "traffic": 55, "difficulty": 35, "ratio": 1.57 },
+        { "keyword": "jaw pain relief", "traffic": 48, "difficulty": 33, "ratio": 1.45 },
+        { "keyword": "tmj treatment", "traffic": 44, "difficulty": 38, "ratio": 1.16 }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic": "blood pressure log",
+      "best_cluster": "Hardware Integration Hub",
+      "opportunity_score": 63,
+      "avg_competitor_rating": 4.1,
+      "competitor_count": 100,
+      "competitors_4_5_plus_1000_reviews": 12,
+      "top_keywords": [
+        { "keyword": "blood pressure app", "traffic": 78, "difficulty": 52, "ratio": 1.50 },
+        { "keyword": "bp monitor", "traffic": 65, "difficulty": 48, "ratio": 1.35 },
+        { "keyword": "blood pressure log", "traffic": 58, "difficulty": 40, "ratio": 1.45 }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic": "pregnancy kick counter",
+      "best_cluster": "Fetal Movement Tracking",
+      "opportunity_score": 63,
+      "avg_competitor_rating": 3.9,
+      "competitor_count": 100,
+      "competitors_4_5_plus_1000_reviews": 6,
+      "top_keywords": [
+        { "keyword": "kick counter", "traffic": 62, "difficulty": 38, "ratio": 1.63 },
+        { "keyword": "baby kick counter", "traffic": 55, "difficulty": 40, "ratio": 1.38 },
+        { "keyword": "fetal movement", "traffic": 42, "difficulty": 32, "ratio": 1.31 }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic": "tinnitus relief",
+      "best_cluster": "Hearing Aid Integration",
+      "opportunity_score": 62,
+      "avg_competitor_rating": 4.2,
+      "competitor_count": 84,
+      "competitors_4_5_plus_1000_reviews": 5,
+      "top_keywords": [
+        { "keyword": "tinnitus relief", "traffic": 68, "difficulty": 45, "ratio": 1.51 },
+        { "keyword": "tinnitus app", "traffic": 52, "difficulty": 38, "ratio": 1.37 },
+        { "keyword": "white noise tinnitus", "traffic": 45, "difficulty": 42, "ratio": 1.07 }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic": "migraine tracker",
+      "best_cluster": "Holistic Health Monitoring",
+      "opportunity_score": 61,
+      "avg_competitor_rating": 4.6,
+      "competitor_count": 96,
+      "competitors_4_5_plus_1000_reviews": 9,
+      "top_keywords": [
+        { "keyword": "migraine tracker", "traffic": 70, "difficulty": 50, "ratio": 1.40 },
+        { "keyword": "headache diary", "traffic": 48, "difficulty": 35, "ratio": 1.37 },
+        { "keyword": "migraine app", "traffic": 55, "difficulty": 48, "ratio": 1.15 }
+      ]
+    },
+    {
+      "rank": 9,
+      "topic": "posture correction",
+      "best_cluster": "Posture Brand Hubs",
+      "opportunity_score": 61,
+      "avg_competitor_rating": 4.4,
+      "competitor_count": 100,
+      "competitors_4_5_plus_1000_reviews": 7,
+      "top_keywords": [
+        { "keyword": "posture corrector", "traffic": 65, "difficulty": 48, "ratio": 1.35 },
+        { "keyword": "posture app", "traffic": 52, "difficulty": 42, "ratio": 1.24 },
+        { "keyword": "back posture", "traffic": 45, "difficulty": 38, "ratio": 1.18 }
+      ]
+    },
+    {
+      "rank": 10,
+      "topic": "ADHD focus timer",
+      "best_cluster": "Neurodivergent Life Organizers",
+      "opportunity_score": 60,
+      "avg_competitor_rating": 4.6,
+      "competitor_count": 100,
+      "competitors_4_5_plus_1000_reviews": 11,
+      "top_keywords": [
+        { "keyword": "adhd planner", "traffic": 72, "difficulty": 55, "ratio": 1.31 },
+        { "keyword": "adhd timer", "traffic": 58, "difficulty": 48, "ratio": 1.21 },
+        { "keyword": "focus timer adhd", "traffic": 52, "difficulty": 45, "ratio": 1.16 }
+      ]
+    }
+  ],
+  "keyword_inspections": {
+    "menopause_symptom_tracker": {
+      "hot_flash_tracker": {
+        "difficulty": 28,
+        "traffic": 58,
+        "kei": { "score": 2.1, "level": "excellent" },
+        "top5_apps": [
+          { "rank": 1, "title": "Hot Flash Insight", "rating": 2.0 },
+          { "rank": 2, "title": "Caria: Menopause & Midlife", "rating": 4.58 },
+          { "rank": 3, "title": "Symptom Tracker", "rating": 4.58 },
+          { "rank": 4, "title": "Evia: Hot Flashes & Menopause", "rating": 4.33 },
+          { "rank": 5, "title": "Health & Her App", "rating": 4.68 }
+        ]
+      },
+      "hot_flash_log": {
+        "difficulty": 28,
+        "traffic": 49,
+        "kei": { "score": 1.74, "level": "excellent" },
+        "top5_apps": [
+          { "rank": 1, "title": "setlog - friends camera", "rating": 4.16, "relevant": false },
+          { "rank": 2, "title": "Truecaller", "rating": 4.45, "relevant": false },
+          { "rank": 3, "title": "Stabilize: Menopause Tracker", "rating": 4.64 },
+          { "rank": 4, "title": "Logger - Log, Track & Journal", "rating": 4.60 },
+          { "rank": 5, "title": "AutoRoad Log", "rating": 0, "relevant": false }
+        ]
+      },
+      "mood_tracker": {
+        "difficulty": 55,
+        "traffic": 79,
+        "kei": { "score": 1.44, "level": "good" },
+        "top5_apps": [
+          { "rank": 1, "title": "Daylio Journal", "rating": 4.77 },
+          { "rank": 2, "title": "DailyBean", "rating": 4.82 },
+          { "rank": 3, "title": "How We Feel", "rating": 4.87 },
+          { "rank": 4, "title": "eMoods Bipolar Mood Tracker", "rating": 4.80 },
+          { "rank": 5, "title": "Mood-Tracker", "rating": 4.39 }
+        ]
+      }
+    },
+    "eye_strain_screen_break": {
+      "20s_vision_break": {
+        "difficulty": 29,
+        "traffic": 56,
+        "kei": { "score": 1.96, "level": "excellent" },
+        "top5_apps": [
+          { "rank": 1, "title": "20s Vision Break", "rating": 0 },
+          { "rank": 2, "title": "Bubble Shooter 2.0", "rating": 4.30, "relevant": false },
+          { "rank": 3, "title": "Virtual Vision Test", "rating": 4.76 },
+          { "rank": 4, "title": "VSP Vision Care On the Go", "rating": 1.22 },
+          { "rank": 5, "title": "EyeMed", "rating": 4.81 }
+        ]
+      },
+      "eye_care_20_20_20": {
+        "difficulty": 30,
+        "traffic": 47,
+        "kei": { "score": 1.57, "level": "excellent" },
+        "top5_apps": [
+          { "rank": 1, "title": "Eye Care 20 20 20", "rating": 4.29 },
+          { "rank": 2, "title": "EyeCare: 20-20-20 Pomodoro", "rating": 0 },
+          { "rank": 3, "title": "Relax Eyes-Pro", "rating": 4.62 },
+          { "rank": 4, "title": "Eye Reliever", "rating": 4.09 },
+          { "rank": 5, "title": "Eye Care 20-20-20 - Tweny", "rating": 0 }
+        ]
+      },
+      "vision_break_timer": {
+        "difficulty": 30,
+        "traffic": 33,
+        "kei": { "score": 1.11, "level": "good" },
+        "top5_apps": [
+          { "rank": 1, "title": "Stand Up! The Work Break Timer", "rating": 4.70 },
+          { "rank": 2, "title": "Power Focus - Work Break Timer", "rating": 4.69 },
+          { "rank": 3, "title": "Break Timer", "rating": 4.38 },
+          { "rank": 4, "title": "Be Focused Pro - Focus Timer", "rating": 4.64 },
+          { "rank": 5, "title": "Be Focused - Deep Focus Timer", "rating": 4.71 }
+        ]
+      }
+    }
+  }
+}
